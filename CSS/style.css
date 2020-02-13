@@ -8,9 +8,22 @@ nav>ul li {
 
 nav>ul>li a {
     text-decoration: none;
-    color: black;
 }
 
-nav>ul>li a:hover {
-    color: orange;
+
+.link-wewnetrzny#pierwszy {
+    color: brown;
 }
+
+.link-wewnetrzny#drugi {
+    color: blueviolet;
+}
+
+.link-wewnetrzny#trzeci {
+    color: yellow;
+}
+
+.link-wewnetrzny#czwarty {
+    color: green;
+}
+
