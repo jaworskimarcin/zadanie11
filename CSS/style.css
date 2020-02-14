@@ -61,3 +61,10 @@ nav>ul>li a {
     display: inline-block;
 }
 
+#portfolio div {
+    width: 400px;
+    height: 400px;
+    border: solid rgb(23, 27, 240);
+    margin-bottom: 10px;
+}
+
