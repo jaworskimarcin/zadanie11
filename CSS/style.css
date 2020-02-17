@@ -15,8 +15,8 @@ nav>ul>li a {
     color: brown;
 }
 
-.link-wewnetrzny#drugi {
-    color: blueviolet;
+.lista-nawigacyjna li:nth-of-type(2) {
+    color: black;
 }
 
 .link-wewnetrzny#trzeci {
@@ -68,3 +68,20 @@ nav>ul>li a {
     margin-bottom: 10px;
 }
 
+#kontakt address {
+    padding-bottom: 5px;
+}
+
+form input,textarea {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+form input[type="submit"] {
+    color: white;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    width: 60px;
+    height: 30px;
+    margin-bottom: 50px;
+}
